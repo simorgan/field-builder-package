@@ -1,5 +1,5 @@
 {
-    "name": "simonmorgan/field-builder",
+    "name": "fieldbuilder/field-builder",
     "description": "Field UI components for Laravel applications with Livewire support",
     "type": "library",
     "license": "MIT",
